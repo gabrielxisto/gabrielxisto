@@ -1,7 +1,7 @@
 ##### Gabriel Xisto:
 
 - :test_tube: Estudando analise de sistemas na Infinity School
-- :speech_balloon: Desenvolvedor fullstack aprovado pela DamkCode
+- :speech_balloon: Desenvolvedor fullstack aprovado pela DankCode
 - :mailbox: Você pode me contatar nos seguintes links:
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsxisto@gmail.com)
