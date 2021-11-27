@@ -2,7 +2,7 @@
 
 - :mailbox: Você pode me contatar nos seguintes links:
 
-[![Discord](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](discord.gg/falldevs)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discord.gg/falldevs)
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsxisto@gmail.com)
 
