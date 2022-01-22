@@ -1,11 +1,5 @@
 ##### Gabriel Xisto:
 
-- :mailbox: You can contact me at the following links:
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/falldevs)
-
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsxisto@gmail.com)
-
 ##### Languages with experience:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
