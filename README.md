@@ -1,4 +1,4 @@
-##### Gabriel Xisto:
+Gabriel Xisto
 
 ## Stacks:
 
