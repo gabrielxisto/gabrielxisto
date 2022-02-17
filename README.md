@@ -1,6 +1,8 @@
 ##### Gabriel Xisto:
 
-##### My Stacks with experience:
+##### Stacks:
+
+Aqui abaixo está algumas stacks onde possuo experiencia e trabalho: 
 
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
