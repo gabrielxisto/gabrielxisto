@@ -17,4 +17,4 @@ Aqui abaixo está algumas stacks onde possuo experiencia e trabalho:
 Você pode me contatar pelo seguintes link: 
  
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
- (mailto:gsxisto@gmail.com)
+ [](mailto:gsxisto@gmail.com)
