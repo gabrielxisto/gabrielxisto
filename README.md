@@ -16,4 +16,5 @@ Aqui abaixo está algumas stacks onde possuo experiencia e trabalho:
 
 Você pode me contatar pelo seguintes link: 
  
- [![Gmail](https://img.shields.io/badge/-GabrielBorges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gbdesigns13/)](https://www.linkedin.com/in/gbdesigns13/) 
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+ (mailto:gsxisto@gmail.com) 
