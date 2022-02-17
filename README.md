@@ -1,5 +1,7 @@
 # Gabriel Xisto
 
+Olá me chamo Gabriel Xisto, desde sempre sou apaixonado por tecnologia. Sou um Desenvolvedor Front-End junior onde sempre tento dar o meu melhor em tudo que faço.
+
 ## Stacks:
 
 Aqui abaixo está algumas stacks onde possuo experiencia e trabalho: 
