@@ -1,6 +1,6 @@
 ##### Gabriel Xisto:
 
-##### Stacks:
+## Stacks:
 
 Aqui abaixo está algumas stacks onde possuo experiencia e trabalho: 
 
