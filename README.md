@@ -1,6 +1,6 @@
 # Gabriel Xisto
 
-Olá me chamo Gabriel Xisto, desde sempre sou apaixonado por tecnologia. Sou um Desenvolvedor FullStack onde sempre tento dar o meu melhor em tudo que faço.
+Olá me chamo Gabriel Xisto, desde sempre sou apaixonado por tecnologia. Sou um Desenvolvedor Back-End onde sempre tento dar o meu melhor em tudo que faço.
 
 ## Stacks:
 
