@@ -1,6 +1,6 @@
 # Gabriel Xisto
 
-Olá me chamo Gabriel Xisto, desde sempre sou apaixonado por tecnologia. Sou um Desenvolvedor Back-End onde sempre tento dar o meu melhor em tudo que faço.
+Olá me chamo Gabriel Xisto, desde sempre sou apaixonado por tecnologia. Comecei a programar com apenas 10 anos desenvolvendo coisas simples e praticas, desde então não perco oportunidades de conhecer mais e me aprofundar em cada coisa que descubro e me interesso.
 
 ## Stacks:
 
