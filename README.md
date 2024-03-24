@@ -1,6 +1,6 @@
 # Olá 👋
 
-Olá me chamo Gabriel Xisto, 16, Salvador BA 
+**Olá me chamo Gabriel Xisto, 16, Salvador BA** <br/>
 Desde sempre sou apaixonado por tecnologia. Comecei a programar com apenas 10 anos desenvolvendo coisas simples e praticas, desde então não perco oportunidades de conhecer mais e me aprofundar em cada coisa que descubro e me interesso.
 
 ## Stacks:
