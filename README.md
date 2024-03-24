@@ -5,4 +5,4 @@ Desde sempre sou apaixonado por tecnologia. Comecei a programar com apenas 10 an
 
 ## Stacks:
 
-<img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/c-plusplus.svg" width="500" height="500" />
+<img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/c-plusplus.svg" width="50" height="50" />
