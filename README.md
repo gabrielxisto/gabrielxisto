@@ -1,7 +1,7 @@
 # Olá 👋
 
 **Hello my name is Gabriel Xisto, 16, Salvador BA** <br/>
-I have always been passionate about technology. I started programming when I was only 10 years old developing simple and practical things, since then I don't miss opportunities to know more and delve into each thing I discover and get interested in.
+I have always been passionate about technology. I started programming when I was only 8 years old developing simple and practical things, since then I don't miss opportunities to know more and delve into each thing I discover and get interested in.
 
 ## Stacks:
 
