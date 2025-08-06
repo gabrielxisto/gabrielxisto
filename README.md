@@ -17,7 +17,7 @@ I have always been passionate about technology. I started programming when I was
   </div>
 
   <h4>Frameworks & Lib's</h4>
-  <div style="display: flex; gap: 20px;">
+  <div style="display: flex; gap: 100px;">
     <img src="https://raw.githubusercontent.com/tomchen/stack-icons/refs/heads/master/logos/react.svg" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/tomchen/stack-icons/refs/heads/master/logos/nextjs.svg" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/tomchen/stack-icons/refs/heads/master/logos/prisma.svg" width="40" height="40" />
