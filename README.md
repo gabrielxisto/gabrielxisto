@@ -21,7 +21,7 @@ I have always been passionate about technology. I started programming when I was
     <img src="https://raw.githubusercontent.com/tomchen/stack-icons/refs/heads/master/logos/react.svg" width="40" height="40" /> &nbsp
     <img src="https://raw.githubusercontent.com/tomchen/stack-icons/refs/heads/master/logos/nextjs.svg" width="40" height="40" /> &nbsp
     <img src="https://raw.githubusercontent.com/tomchen/stack-icons/refs/heads/master/logos/prisma.svg" width="40" height="40" /> &nbsp
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/nodejs-icon.svg" width="40" height="40" /> &nbsp
+    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/nodejs-icon.svg" width="40" height="40" /> &nbsp &nbsp &nbsp
     <img src="https://raw.githubusercontent.com/tomchen/stack-icons/refs/heads/master/logos/express.svg" width="40" height="40" /> &nbsp
   </div>
   
