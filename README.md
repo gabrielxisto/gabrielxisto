@@ -18,8 +18,8 @@ I have always been passionate about technology. I started programming when I was
   <br/>
   <h4>Database SQL/NoSQL</h4>
   <br/>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 10vw">  
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/postgresql.svg" width="40" height="40" />
+  <div style="display: flex; justify-content: center; align-items: center">  
+    <img style="margin-left: 2vw" src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/postgresql.svg" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/sqlite.svg" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/mongodb-icon.svg" width="40" height="40" />
   </div>
